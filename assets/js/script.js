@@ -13,6 +13,7 @@ var confirmLowerCase;
 
 // This is the main function
 function generatePassword () {
+  
   // Prompts the user to pick their passwords length
   var confirmLength = prompt("How many characters would you like your password to have?");
 
