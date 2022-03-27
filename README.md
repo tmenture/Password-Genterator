@@ -14,6 +14,10 @@ A website that generates a strong random password any time needed that includes 
 
 https://tmenture.github.io/Password-Genterator/
 
+## Snap Shot of the Web Page
+
+![Snapshot of Webpage](https://tmenture.github.io/Password-Generator/assets/images/screen-shot.png) 
+
 ## Contribution
 
 Made by, Thomas Menture
