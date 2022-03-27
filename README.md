@@ -16,7 +16,7 @@ https://tmenture.github.io/Password-Genterator/
 
 ## Snap Shot of the Web Page
 
-![Snapshot](https://tmenture.github.io/Password-Generator/img/screen-shot.png) 
+![Snapshot](https://tmenture.github.io/Password-Generator/assets/imgages/screen-shot.png) 
 
 ## Contribution
 
