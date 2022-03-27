@@ -2,7 +2,12 @@
 
 ## Purpose
 
-A website that generates a strong random password any time needed that includes special characters!
+A website that generates a strong random password any time needed that includes:
+
+- Special Characters
+- Numbers
+- Capitol Letters
+- Lower Case Letters
 
 ## Built With
 
